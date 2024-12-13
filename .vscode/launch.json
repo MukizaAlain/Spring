@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CarRentalsApplication<car_rentals>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.sandra.car_rentals.CarRentalsApplication",
+            "projectName": "car_rentals",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
